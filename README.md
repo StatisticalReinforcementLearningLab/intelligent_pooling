@@ -6,7 +6,7 @@ You will need numpy and pandas. After you install and activate py36, you can the
 
 The Gaussian process model is implemented in GPyTorch. You can find that here: [GPyTorch](https://gpytorch.ai/).
 
-To run code see `run_multiple_32_7.sh'. The options for this script are as follow: 
+To run code see ```run_multiple_32_7.sh```. The options for this script are as follow: 
 
 * The number of participants, the current option is 32. 
 * The time at which to perform updates, reported results have this set to 7. 
