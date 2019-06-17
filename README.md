@@ -12,7 +12,7 @@ To run code see `run_multiple_32_7.sh'. The options for this script are as follo
 * The time at which to perform updates, reported results have this set to 7. 
 * Simulation start index, currently set to 0. 
 * Simulation end index, currently set to 1. 
-* The training method, the current option is EB. 
+* The training method, the current option is EB for empirical Bayes. 
 * The approach option, current set to pooling. Other options are: 
 batch or personalized.
 
